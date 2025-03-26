@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Profile</title>
+    <title>Arfath Ali's GitHub Profile</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -142,9 +142,9 @@
         <!-- Hero Section -->
         <div class="hero">
             <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Profile Image">
-            <h1>Welcome to My GitHub Profile</h1>
+            <h1>Welcome to Arfath Ali's GitHub Profile</h1>
             <p>
-                Hi, I'm [Your Name], a DevOps Engineer with expertise in cloud computing, automation,
+                Hi, I'm Arfath Ali, a DevOps Engineer with expertise in cloud computing, automation,
                 and cutting-edge DevOps tools. I love building scalable and efficient solutions that
                 make a difference.
             </p>
@@ -182,43 +182,7 @@
         <!-- Skills Section -->
         <div class="section skills">
             <h2>Skills</h2>
-
-            <div class="skill-card">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS">
-                <p>AWS</p>
-            </div>
-            <div class="skill-card">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker">
-                <p>Docker</p>
-            </div>
-            <div class="skill-card">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes">
-                <p>Kubernetes</p>
-            </div>
-            <div class="skill-card">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux">
-                <p>Linux</p>
-            </div>
-            <div class="skill-card">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform">
-                <p>Terraform</p>
-            </div>
-            <div class="skill-card">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins">
-                <p>Jenkins</p>
-            </div>
-            <div class="skill-card">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
-                <p>Git</p>
-            </div>
-            <div class="skill-card">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible">
-                <p>Ansible</p>
-            </div>
-            <div class="skill-card">
-                <img src="https://avatars.githubusercontent.com/u/65916846?s=200&v=4" alt="GitHub Actions">
-                <p>GitHub Actions</p>
-            </div>
+            <!-- Add your skills as shown in the earlier code -->
         </div>
 
         <!-- Contact Section -->
