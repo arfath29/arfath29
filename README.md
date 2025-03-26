@@ -1,33 +1,40 @@
-# Hi, I'm Arfath Ali 👋
+# Welcome to My GitHub Profile
 
-![Profile Picture](https://avatars.githubusercontent.com/u/your-github-id)
+![Profile Image](https://avatars.githubusercontent.com/u/your-github-id)
 
-🚀 **Aspiring AWS DevOps Engineer**  
-🎯 Passionate about Cloud, Automation, and CI/CD  
-
----
-
-## 🔗 Connect with Me
-
-- [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arfath29)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-arfath-ali-1572b12aa)
-- [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+## Hi, I'm [Your Name] 👋
+A **DevOps Engineer** with expertise in cloud computing, automation, and cutting-edge DevOps tools. I love building scalable and efficient solutions that make a difference.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🚀 My Projects
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- **Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- **CI/CD:** ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### [3-Tier EKS Web Application](https://github.com/arfath29/Ekart-project)
+- Deployed a scalable 3-tier app using Amazon EKS, Dockerized components, and CI/CD pipelines.
 
----
+### [React Todo App Automation](#)
+- Automated deployment of a React app on AWS EC2 with Nginx reverse proxy and Jenkins CI/CD pipelines.
 
-## 📈 GitHub Stats
-
-![Arfath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfath29&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfath29&layout=compact&theme=radical)
+### [Ultimate CI/CD Pipeline](#)
+- Designed a CI/CD pipeline integrating Jenkins, SonarQube, Trivy, and Kubernetes deployments.
 
 ---
 
-&copy; 2025 **Arfath Ali** - All rights reserved.
+## 🛠️ Skills
+
+| ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) **AWS** | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) **Docker** | ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg) **Kubernetes** |
+| :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+| ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) **Linux**             | ![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg) **Terraform** | ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg) **Jenkins**      |
+| ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git**                     | ![Ansible](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg) **Ansible**         | ![GitHub Actions](https://avatars.githubusercontent.com/u/65916846?s=200&v=4) **GitHub Actions**            |
+
+---
+
+## 📬 Contact Me
+
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/mohammed-arfath-ali-1572b12aa) [**LinkedIn**](https://www.linkedin.com/in/mohammed-arfath-ali-1572b12aa)  
+[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/arfath29) [**GitHub**](https://github.com/arfath29)  
+[![Email](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:your-email@example.com) **Email Me**  
+
+---
+
+### 🌟 Thanks for visiting my profile!
