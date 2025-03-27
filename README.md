@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+#                                           Welcome to My GitHub Profile
 
 
 <h1 align="center" style="color: #ffdd57;">Hi!</h1>
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 My Projects
+ ##                                          🚀 My Projects
 
 <table>
   <tr>
@@ -39,10 +39,9 @@
 
 ---
 
-## 🛠️ Skills
+##                                           🛠️ Skills
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50">
@@ -55,7 +54,7 @@
 
 ---
 
-## 📫 Contact Me
+##                                           📫 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammedarfathali" target="_blank">
