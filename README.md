@@ -15,24 +15,24 @@
     <td>
       <h3>3-Tier EKS Web Application</h3>
       <p>Deployed a scalable 3-tier app using Amazon EKS, Dockerized components, and CI/CD pipelines.</p>
-      <a href="https://github.com/arfath29/Ekart-project" target="_blank">🔗 View Project</a>
+      <a href="https://github.com/arfath29/Eks-3-tier-app.git" target="_blank">🔗 View Project</a>
     </td>
     <td>
       <h3>React Todo App Automation</h3>
       <p>Automated deployment of a React app on AWS EC2 with Nginx reverse proxy and Jenkins CI/CD pipelines.</p>
-      <a href="#" target="_blank">🔗 View Project</a>
+      <a href="https://github.com/arfath29/Devops-Challenge-Project.git" target="_blank">🔗 View Project</a>
     </td>
   </tr>
   <tr>
     <td>
       <h3>Ultimate CI/CD Pipeline</h3>
       <p>Designed a CI/CD pipeline integrating Jenkins, SonarQube, Trivy, and Kubernetes deployments.</p>
-      <a href="#" target="_blank">🔗 View Project</a>
+      <a href="https://github.com/arfath29/Ekart-project.git" target="_blank">🔗 View Project</a>
     </td>
     <td>
       <h3>Eleven MicroServices Deployment on Eks</h3>
       <p>Deployed MicroServices On Amazon EKS.</p>
-      <a href="#" target="_blank">🔗 View Project</a>
+      <a href="https://github.com/arfath29/Microservices-Deployment.git" target="_blank">🔗 View Project</a>
     </td>
   </tr>
 </table>
