@@ -1,8 +1,5 @@
 # Welcome to My GitHub Profile
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Profile Image" width="150" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
-</p>
 
 <h1 align="center" style="color: #ffdd57;">Hi!</h1>
 <p align="center">
@@ -32,8 +29,6 @@
       <p>Designed a CI/CD pipeline integrating Jenkins, SonarQube, Trivy, and Kubernetes deployments.</p>
       <a href="#" target="_blank">🔗 View Project</a>
     </td>
-  </tr>
-  <tr>
     <td>
       <h3>Eleven MicroServices Deployment on Eks</h3>
       <p>Deployed MicroServices On Amazon EKS.</p>
