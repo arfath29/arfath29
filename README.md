@@ -33,6 +33,13 @@
       <a href="#" target="_blank">🔗 View Project</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <h3>Eleven MicroServices Deployment on Eks</h3>
+      <p>Deployed MicroServices On Amazon EKS.</p>
+      <a href="#" target="_blank">🔗 View Project</a>
+    </td>
+  </tr>
 </table>
 
 ---
