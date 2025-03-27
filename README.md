@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Profile Image" width="150" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
 </p>
 
-<h1 align="center" style="color: #ffdd57;">Hi, I'm [Your Name]</h1>
+<h1 align="center" style="color: #ffdd57;">Hi!</h1>
 <p align="center">
   A DevOps Engineer with expertise in cloud computing, automation, and cutting-edge DevOps tools. I love building scalable and efficient solutions that make a difference.
 </p>
@@ -56,7 +56,7 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-arfath-ali-1572b12aa" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammedarfathali" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"> LinkedIn
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,7 +64,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"> GitHub
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:er.arfath@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="30"> Email Me
   </a>
 </p>
